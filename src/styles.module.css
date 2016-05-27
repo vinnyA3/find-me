@@ -1,0 +1,4 @@
+$bg-color: blue;
+.wrapper{
+	background: $bg-color;
+}
